@@ -1,0 +1,112 @@
+{
+  "contacts": [
+    {
+      "id": "TCS101",
+      "name": "Prachiti",
+      "photo": "https://th.bing.com/th?id=OIP.S7mueWiasREu-cLv-r9abgHaJP&w=223&h=279&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
+      "contact": 9876543210,
+      "email": "prachiti123@gmail.com",
+      "company": "TCS",
+      "title": "software developer",
+      "groupId": 1
+    },
+    {
+      "id": "WIPRO101",
+      "name": "Gouri",
+      "photo": "https://th.bing.com/th?id=OIP.Rm5tTp49XryPOYdV28iB6wHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
+      "contact": 9876543211,
+      "email": "gouri123@gmail.com",
+      "company": "WIPRO",
+      "title": "software developer",
+      "groupId": 2
+    },
+    {
+      "id": "FIRE101",
+      "name": "Vaibhav",
+      "photo": "",
+      "contact": 9876543212,
+      "email": "vaibhav123@gmail.com",
+      "company": "FIREFLINK",
+      "title": "software developer",
+      "groupId": 2
+    },
+    {
+      "id": "CAP101",
+      "name": "Avadhoot",
+      "photo": "",
+      "contact": 9876543213,
+      "email": "avadhoot123@gmail.com",
+      "company": "CAPGEMINI",
+      "title": "Software Tester",
+      "groupId": 1
+    },
+    {
+      "id": "PER101",
+      "name": "Vedant",
+      "photo": "",
+      "contact": 9876543214,
+      "email": "vedant123@gmail.com",
+      "company": "PERSISTANT",
+      "title": "software developer",
+      "groupId": 1
+    },
+    {
+      "id": "TCS102",
+      "name": "Arpita",
+      "photo": "",
+      "contact": 9876543215,
+      "email": "arpita123@gmail.com",
+      "company": "TCS",
+      "title": "software developer",
+      "groupId": 3
+    },
+    {
+      "id": "FIRE102",
+      "name": "Nikita",
+      "photo": "",
+      "contact": 9876543216,
+      "email": "nikita123@gmail.com",
+      "company": "FIREFLINK",
+      "title": "software developer",
+      "groupId": 2
+    },
+    {
+      "id": "d4bf",
+      "name": [
+        "Prachiti"
+      ],
+      "photo": [
+        "https://cdn1.iconfinder.com/data/icons/avatars-1-5/136/87-512.png"
+      ],
+      "contact": [
+        "9876543210"
+      ],
+      "email": [
+        "prachiti@123"
+      ],
+      "company": [
+        "TCS"
+      ],
+      "title": [
+        "Front end developer"
+      ],
+      "groupId": [
+        "1"
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "groupName": "family"
+    },
+    {
+      "id": "2",
+      "groupName": "friends"
+    },
+    {
+      "id": "3",
+      "groupName": "collegue"
+    }
+  ]
+}
